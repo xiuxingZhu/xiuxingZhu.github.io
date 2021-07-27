@@ -2,7 +2,7 @@ a:{
   color:blue;
 }
 a:hover {
-  color: green;
+  color: black;
 }
 body{
   display:flex;
