@@ -1,8 +1,9 @@
+
 a:{
-  color:blue;
+  color：green;
 }
 a:hover {
-  color: black;
+  color：black;
 }
 body{
   display:flex;
