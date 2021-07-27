@@ -1,5 +1,5 @@
 a:{
-  color:red;
+  color:blue;
 }
 a:hover {
   color: green;
@@ -13,8 +13,8 @@ main{
   flex: auto;
 }
 aside{
-  flex:1;
+  flex:2;
 }
 article{
-  flex:3;
+  flex:5;
 }
