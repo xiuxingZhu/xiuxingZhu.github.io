@@ -1,4 +1,3 @@
-
 a:{
   color：green;
 }
@@ -14,8 +13,8 @@ main{
   flex: auto;
 }
 aside{
-  flex：1;
+  flex：0;
 }
 article{
-  flex：3;
+  flex：5;
 }
