@@ -14,7 +14,7 @@ main{
   flex: auto;
 }
 aside{
-  flex：2;
+  flex：1;
 }
 article{
   flex：5;
